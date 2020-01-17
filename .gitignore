@@ -1,0 +1,7 @@
+*~
+*.so
+*.rlib
+*.dylib
+.DS_Store
+/target/
+Cargo.lock
